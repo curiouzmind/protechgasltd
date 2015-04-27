@@ -111,12 +111,13 @@
         <!-- Info - Icons List -->
         <ul class="icons-list">
           <li><i class="fa fa-map-marker">  </i> <strong>Address:</strong><br> 
-                Suite 205, His Glory plaza, Ose Close,<br>
-                Off Ademola Adetokunbo-Crescent,<br>
-                Wuse 2, Abuja-FCT, Nigeria.
+                Suite 40, 1st Floor, Nandu Plaza, <br>
+                Plot 566, Ndola Crescent, <br>
+                off Micheal Opara Street, <br>
+                Wuse Zone 5, Abuja, Nigeria.
           </li>
           <li><i class="fa fa-envelope-o"></i> <strong>Email:</strong> hopecenter@gmail.com</li>
-          <li><i class="fa fa-mobile"></i> <strong>Phone:</strong> (+234) 802-729-3995 | (+234) 803-725-8827</li>
+          <li><i class="fa fa-mobile"></i> <strong>Phone:</strong> (+234) 803-725-8827 | (+234) 809-585-5986</li>
         </ul>
         <!-- Divider -->
         <div class="hr1" style="margin-bottom:15px;"></div>
@@ -146,6 +147,7 @@
                         Benin City,
                         Edo State.
           </li>
+          <li><i class="fa fa-mobile"></i> <strong>Phone:</strong> (+234) 809-585-6081</li>
         </ul>
       </div>
       

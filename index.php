@@ -57,8 +57,9 @@
         <img class="img-responsive" src="images/slider/bg1.jpg" alt="slider">
         <div class="slider-content">
           <div class="col-md-12 text-center">
-            <h2 class="animated2 white"><span>Our <strong>Mission</strong></span></h2>
+            <h2 class="animated5 white"><span>Our <strong>Mission</strong></span></h2>
             <h3 class="animated3 white"><span>To Redefine Healthcare Systems</span></h3>
+            <p class="slider-bg animated2 center-block"></p>
           </div>
 </div>
 </div><!--/ Carousel item end -->
@@ -70,7 +71,8 @@
         <span><strong>How?</strong></span>
     </h2>
     <h3 class="animated4 white"><span>By Providing Top Health Facilities Installation</span></h3>		
-    <p class="animated6 white"><a href="#" class="slider btn btn-default btn-large">Learn how</a></p>	     
+    <p class="animated6 white"><a href="#" class="slider btn btn-default btn-large">Learn how</a></p>	 
+    <p class="slider-bg animated2 center-block"></p>    
 </div>
 </div>
 </div><!--/ Carousel item end -->
@@ -85,8 +87,10 @@
      <span>We Can CHANGE Healthcare Systems</span>
  </h3>		
  <div class="">
-  <a class="animated4 slider btn btn-default btn-large btn-min-block" href="#">Product Gallery</a><a class="animated4 slider btn btn-default btn-min-block" href="#">Projects</a>
+  <a class="animated4 slider btn btn-default btn-large btn-min-block" href="#">Product Gallery</a>
+  <a class="animated4 slider btn btn-default btn-min-block" href="#">Projects Gallery</a>
 </div>     
+<p class="slider-bg animated2 center-block"></p>
 </div>
 </div>
 </div><!--/ Carousel item end -->

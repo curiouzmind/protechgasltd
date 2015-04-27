@@ -99,7 +99,7 @@
           <div class="tab-content">
             <div id="mission" class="tab-pane fade active in">
               <div class="row">
-              <h3 class="text-center">Our Mission</h3>
+              <h3 class="text-center well">Our Mission</h3>
               <p class="col-md-6">We aim to become a one-stop entity for only standard quality 
                       healthcare equipment and solutions, while ensuring prompt and budget friendly services.</p>
               <p class="col-md-6">
@@ -109,7 +109,7 @@
             </div>
             <div id="vision" class="tab-pane fade in">
               <div class="row">
-                <h3 class="text-center">Our Vision</h3>
+                <h3 class="text-center well">Our Vision</h3>
                 <div class="col-md-6">
                   <p>To continue to profer only quality and affordable healthcare equipment and medical gas pipeline solutions to our esteemed clients.</p>
                 </div>
@@ -120,7 +120,7 @@
             </div>
             <div id="services" class="tab-pane fade in">
               <div class="row">
-                <h4 class="text-center">Our Services</h4>
+                <h4 class="text-center well">Our Services</h4>
                 <div class="col-md-6">
                   <div class="text-left">
                     <p><i class="fa fa-check-square-o"></i> Manufacture of medical and industrial gases.</p>
