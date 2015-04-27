@@ -62,7 +62,7 @@
       <div class="row">
         <div class="col-md-8 downloads">
           <h4 class="classic-title"><span>Click the button links below to download our product catalogs</span></h4>
-          <ul class="list-unstyled">
+          <ul class="list-unstyled border-bttm">
             <li>
              <div class="row">
               <div class="col-md-1 hidden-xs"><span class="download-num">1</span></div>
@@ -89,7 +89,8 @@
           
           </div>
         <div class="col-md-4 hidden-xs">
-          <span class="download-img center-block" style="background: "><i class="fa fa-download fa-img"></i></span>
+          <span class="download-img center-block" style="background: ">
+          <i class="fa fa-download fa-img"></i></span>
         </div>
       </div>
     </div>
@@ -101,28 +102,5 @@
 <!-- Start Footer -->
 <?php include 'footer.html' ?>
 
-<!-- JS  -->
-  <script type="text/javascript" src="js/jquery-2.1.1.min.js"></script>
-  <script type="text/javascript" src="js/jquery.migrate.js"></script>
-  <script type="text/javascript" src="js/modernizrr.js"></script>
-  <script type="text/javascript" src="asset/js/bootstrap.min.js"></script>
-  <script type="text/javascript" src="js/jquery.fitvids.js"></script>
-  <script type="text/javascript" src="js/owl.carousel.min.js"></script>
-  <script type="text/javascript" src="js/nivo-lightbox.min.js"></script>
-  <script type="text/javascript" src="js/jquery.isotope.min.js"></script>
-  <script type="text/javascript" src="js/jquery.appear.js"></script>
-  <script type="text/javascript" src="js/count-to.js"></script>
-  <script type="text/javascript" src="js/jquery.textillate.js"></script>
-  <script type="text/javascript" src="js/jquery.lettering.js"></script>
-  <script type="text/javascript" src="js/jquery.easypiechart.min.js"></script>
-  <script type="text/javascript" src="js/jquery.nicescroll.min.js"></script>
-  <script type="text/javascript" src="js/jquery.parallax.js"></script>
-  <script type="text/javascript" src="js/jquery.themepunch.plugins.min.js"></script>
-  <script type="text/javascript" src="js/jquery.themepunch.revolution.min.js"></script>
-  <script type="text/javascript" src="js/script.js"></script>
-
-  <script>
-
-  </script>
 </body>
 </html>

@@ -128,7 +128,7 @@ line-height: 250px;
 .download-btn {
 }
 
-.downloads ul li {
+ul.border-bttm li  {
 	border-bottom: solid 1px #ddd;
 	padding: 15px 0;
 }
@@ -2650,6 +2650,10 @@ ul.icons-list li i {
 	margin-bottom: 10px;
 }
 
+.classic-testimonials .testimonial-content span {
+	font-weight: 500;
+}
+
 .classic-testimonials .testimonial-content {
 	position: relative;
 	padding: 14px 18px;
@@ -2658,7 +2662,7 @@ ul.icons-list li i {
     -moz-border-radius: 3px;
     -o-border-radius: 3px;
 	margin-bottom: 10px;
-	border: 1px solid #e8e8e8;
+	border: 1px solid rgba(22, 160, 133, 0.49);
 	box-shadow: 0 0 20px rgba(0,0,0,.04) inset;
 	-o-box-shadow: 0 0 20px rgba(0,0,0,.04) inset;
 	-moz-box-shadow: 0 0 20px rgba(0,0,0,.04) inset;
